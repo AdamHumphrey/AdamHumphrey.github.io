@@ -30,6 +30,15 @@ a {
 	font-size: 14px;
 }
 
+.col-md-12 {
+	padding: 0px 0px 0px 0px;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
 .resume {
 	font-family: 'Raleway', serif;
 	font-weight: 700;
