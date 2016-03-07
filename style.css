@@ -30,6 +30,10 @@ a {
 	font-size: 14px;
 }
 
+.row {
+	padding: 20px 0px 20px 0px;
+}
+
 .col-md-12 {
 	padding: 0px 0px 0px 0px;
 }
